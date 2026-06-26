@@ -124,15 +124,6 @@ streamlit run app.py
 - ✅ Real News
 - ❌ Fake News
 
----
-
-## 📷 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Prediction Result
-- Example Input
 
 ---
 
@@ -158,16 +149,16 @@ The application can be deployed using:
 
 ## 👨‍💻 Author
 
-Ram Chandran
+Ramachandran K V
 
 GitHub:
-https://github.com/yourusername
+https://github.com/ramchandrankv
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/ramchandrankv
 
 ---
 
-## 📄 License
+
 
 This project is created for educational purposes as part of the IBM SkillsBuild - Edunet Foundation AI & ML Virtual Internship.
